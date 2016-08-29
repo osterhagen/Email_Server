@@ -1,7 +1,4 @@
-/**
- *
- * Created by hopton on 4/12/2016.
- */
+
 public class User {
     private String username;
     private String password;
