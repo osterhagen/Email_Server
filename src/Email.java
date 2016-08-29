@@ -1,9 +1,6 @@
 import java.util.Date;
 
 /**
- * CS 180 - Project 4 (Reggie Hopton and Omar Raza)
- * Reggie - L02
- * Omar - L03
  * 4/14/16
  * Email
  */
